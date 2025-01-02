@@ -7,3 +7,4 @@ class LanguageLearnerApp(App):
 
 if __name__ == '__main__':
     LanguageLearnerApp().run()
+    
